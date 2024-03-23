@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "title": "Exploring the Latest in Technology and Web Development",
         "cover": "https://i.ibb.co/dp4GY6Y/online-blog.jpg",
         "author": "John Doe",
         "author_img": "https://i.ibb.co/vcCSRfz/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
@@ -10,6 +11,7 @@
     },
     {
         "id": 2,
+        "title": "Delving into Scientific Research and Biology",
         "cover": "https://i.ibb.co/j3WYSR2/technology-communication-icons-symbols-concept.jpg",
         "author": "Jane Smith",
         "author_img": "https://i.ibb.co/cbwKFc5/download-1.jpg",
@@ -19,6 +21,7 @@
     },
     {
         "id": 3,
+        "title": "Embark on Thrilling Adventures through Travel and Photography",
         "cover": "https://i.ibb.co/k3mpG5m/diego-ph-f-Iq0t-ET6llw-unsplash.jpg",
         "author": "Alice Johnson",
         "author_img": "https://i.ibb.co/0tmBCWs/download-2.jpg",
@@ -28,6 +31,7 @@
     },
     {
         "id": 4,
+        "title": "Achieve Optimal Health and Fitness with Expert Nutrition Tips",
         "cover": "https://i.ibb.co/fNG5tgG/miguel-bruna-Tz-VN0x-Qh-Wa-Q-unsplash.jpg",
         "author": "Bob Williams",
         "author_img": "https://i.ibb.co/JRxKX08/download.jpg",
@@ -37,6 +41,7 @@
     },
     {
         "id": 5,
+        "title": "Uncover Fascinating Insights into History, Culture, and Art",
         "cover": "https://i.ibb.co/BqW4fcB/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
         "author": "Emily Brown",
         "author_img": "https://i.ibb.co/0tmBCWs/download-2.jpg",
