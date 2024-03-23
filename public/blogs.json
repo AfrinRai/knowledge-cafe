@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/dp4GY6Y/online-blog.jpg",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/vcCSRfz/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+        "posted_date": "2024-03-22",
+        "reading_time": 10,
+        "hashtags": ["technology", "programming", "webdev"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/j3WYSR2/technology-communication-icons-symbols-concept.jpg",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/cbwKFc5/download-1.jpg",
+        "posted_date": "2024-03-21",
+        "reading_time": 8,
+        "hashtags": ["science", "research", "biology"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/k3mpG5m/diego-ph-f-Iq0t-ET6llw-unsplash.jpg",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/0tmBCWs/download-2.jpg",
+        "posted_date": "2024-03-20",
+        "reading_time": 12,
+        "hashtags": ["travel", "adventure", "photography"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/fNG5tgG/miguel-bruna-Tz-VN0x-Qh-Wa-Q-unsplash.jpg",
+        "author": "Bob Williams",
+        "author_img": "https://i.ibb.co/JRxKX08/download.jpg",
+        "posted_date": "2024-03-19",
+        "reading_time": 15,
+        "hashtags": ["health", "fitness", "nutrition"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/BqW4fcB/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+        "author": "Emily Brown",
+        "author_img": "https://i.ibb.co/0tmBCWs/download-2.jpg",
+        "posted_date": "2024-03-18",
+        "reading_time": 7,
+        "hashtags": ["history", "culture", "art"]
+    }    
+]
